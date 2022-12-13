@@ -1,2 +1,1 @@
-# Firestore Firebase Getting Started
- Firebase NoSQL DB
+# This repo is live at  http://freshteacher.software/Firebase-NoSQL-DB-Firestore-Firebase-Getting-Started
